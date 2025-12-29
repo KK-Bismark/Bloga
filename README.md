@@ -12,5 +12,5 @@ Inspiration and code snippets from various tutorials and open-source projects.
 
 ## Contact
 
-For any questions or feedback, please contact me at [kbismarkkwaku@gmail.com].
+For any questions or feedback, please contact me at kbismarkkwaku@gmail.com.
 
